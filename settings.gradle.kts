@@ -1,8 +1,8 @@
 pluginManagement {
     repositories {
-        gradlePluginPortal()
         google()
         mavenCentral()
+        gradlePluginPortal()
     }
 }
 dependencyResolutionManagement {
@@ -10,8 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven {url "https://jitpack.io"}
     }
 }
-rootProject.name = "To Do List"
-include ':app'
+
+rootProject.name = "MyMoney"
+include(":app")
+ 

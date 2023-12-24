@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.kelompok7.mymoney
 
 import org.junit.Test
 
