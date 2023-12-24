@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "278759069410",
+    "firebase_url": "https://testing-f2423-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testing-f2423",
+    "storage_bucket": "testing-f2423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278759069410:android:61c4ad04d077e1f81670bb",
+        "android_client_info": {
+          "package_name": "com.ecample.TubesMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278759069410-61hsiud5n5m8jhp3sn1gl8ripl36aqad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JsKt7ep5ZtRFs4pyAXJSTtiHcHTn-Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278759069410-61hsiud5n5m8jhp3sn1gl8ripl36aqad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278759069410:android:3188ea33923eadf61670bb",
+        "android_client_info": {
+          "package_name": "com.myapp.catatuang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278759069410-61hsiud5n5m8jhp3sn1gl8ripl36aqad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JsKt7ep5ZtRFs4pyAXJSTtiHcHTn-Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278759069410-61hsiud5n5m8jhp3sn1gl8ripl36aqad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
